@@ -87,29 +87,29 @@
 }
 
 @keyframes FlipCard-umbra1 {
-  0% { opacity: 0.3; transform: translateZ(-200px) translateY(2px) rotateY(0deg) scale(1.4); }
-  12% { opacity: 0.0; transform: translateZ(-200px) translateY(62px) rotateY(0deg) scale(1.4); }
-  65% { opacity: 0.0; transform: translateZ(-200px) translateY(62px) rotateY(180deg) scale(1.4); }
-  100% { opacity: 0.3; transform: translateZ(-200px) translateY(2px) rotateY(180deg) scale(1.4); }
+  0% { opacity: 0.3; transform: translateZ(-201px) translateY(2px) rotateY(0deg) scale(1.4); }
+  12% { opacity: 0.0; transform: translateZ(-201px) translateY(62px) rotateY(0deg) scale(1.4); }
+  65% { opacity: 0.0; transform: translateZ(-201px) translateY(62px) rotateY(180deg) scale(1.4); }
+  100% { opacity: 0.3; transform: translateZ(-201px) translateY(2px) rotateY(180deg) scale(1.4); }
 }
 
 @keyframes FlipCard-umbra2 {
-  0% { opacity: 0.3; transform: translateZ(-200px) translateY(2px) rotateY(0deg) scale(1.4); }
-  12% { opacity: 0.0; transform: translateZ(-200px) translateY(62px) rotateY(0deg) scale(1.4); }
-  65% { opacity: 0.0; transform: translateZ(-200px) translateY(62px) rotateY(180deg) scale(1.4); }
-  100% { opacity: 0.3; transform: translateZ(-200px) translateY(2px) rotateY(180deg) scale(1.4); }
+  0% { opacity: 0.3; transform: translateZ(-201px) translateY(2px) rotateY(0deg) scale(1.4); }
+  12% { opacity: 0.0; transform: translateZ(-201px) translateY(62px) rotateY(0deg) scale(1.4); }
+  65% { opacity: 0.0; transform: translateZ(-201px) translateY(62px) rotateY(180deg) scale(1.4); }
+  100% { opacity: 0.3; transform: translateZ(-201px) translateY(2px) rotateY(180deg) scale(1.4); }
 }
 
 @keyframes FlipCard-penumbra1 {
-  0% { opacity: 0.0; transform: translateZ(-200px) translateY(2px) rotateY(0deg) scale(1.4); }
-  12% { opacity: 0.5; transform: translateZ(-200px) translateY(62px) rotateY(0deg) scale(1.4); }
-  65% { opacity: 0.5; transform: translateZ(-200px) translateY(62px) rotateY(180deg) scale(1.4); }
-  100% { opacity: 0.0; transform: translateZ(-200px) translateY(2px) rotateY(180deg) scale(1.4); }
+  0% { opacity: 0.0; transform: translateZ(-201px) translateY(2px) rotateY(0deg) scale(1.4); }
+  12% { opacity: 0.5; transform: translateZ(-201px) translateY(62px) rotateY(0deg) scale(1.4); }
+  65% { opacity: 0.5; transform: translateZ(-201px) translateY(62px) rotateY(180deg) scale(1.4); }
+  100% { opacity: 0.0; transform: translateZ(-201px) translateY(2px) rotateY(180deg) scale(1.4); }
 }
 
 @keyframes FlipCard-penumbra2 {
-  0% { opacity: 0.0; transform: translateZ(-200px) translateY(2px) rotateY(0deg) scale(1.4); }
-  12% { opacity: 0.5; transform: translateZ(-200px) translateY(62px) rotateY(0deg) scale(1.4); }
-  65% { opacity: 0.5; transform: translateZ(-200px) translateY(62px) rotateY(180deg) scale(1.4); }
-  100% { opacity: 0.0; transform: translateZ(-200px) translateY(2px) rotateY(180deg) scale(1.4); }
+  0% { opacity: 0.0; transform: translateZ(-201px) translateY(2px) rotateY(0deg) scale(1.4); }
+  12% { opacity: 0.5; transform: translateZ(-201px) translateY(62px) rotateY(0deg) scale(1.4); }
+  65% { opacity: 0.5; transform: translateZ(-201px) translateY(62px) rotateY(180deg) scale(1.4); }
+  100% { opacity: 0.0; transform: translateZ(-201px) translateY(2px) rotateY(180deg) scale(1.4); }
 }
