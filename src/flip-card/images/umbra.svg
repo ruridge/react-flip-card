@@ -1,4 +1,4 @@
-<svg version="1.1" class="shape-reference" xmlns="http://www.w3.org/2000/svg" width="270" height="390">
+<svg version="1.1" class="shape-reference" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <filter id="blur-2">
       <feGaussianBlur in="SourceGraphic" stdDeviation="2" />
