@@ -17,7 +17,7 @@ class App extends Component {
         </p>
         <div className="App-testbed">
           <FlipCard width={260} height={380}>
-              <CardFace style={{}}>
+              <CardFace>
                   <h1>Front</h1>
               </CardFace>
 
